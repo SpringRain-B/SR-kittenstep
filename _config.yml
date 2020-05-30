@@ -13,8 +13,8 @@ title: Two Kittens Step
 description: Daily record of foot prints of adorable jellies 
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+#logo_dark: assets/images/favicon.png
+#favicon: assets/images/favicon.png
 CNAME: #add cname for website to be created
 
 # Social info
